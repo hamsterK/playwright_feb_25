@@ -1,0 +1,28 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.env
+
+# Environment variables and secret keys
+.env
+.pythonvenv/
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Byte-compiled files
+*.pyc
+*.pyo
+
+# Node modules (if using npm for frontend)
+node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+/allure-report/
+/allure-results/
