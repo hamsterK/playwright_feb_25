@@ -26,3 +26,11 @@ node_modules/
 Thumbs.db
 /allure-report/
 /allure-results/
+
+# playwright specific
+*.png
+
+# sensitive data
+/venv/
+/test-results/
+/logs/
